@@ -14,8 +14,8 @@
       "state": "MA",
       "zip": "421202"
     },
-    "website": "http://bit.ly/rohit_rg",
-    "resumedownload": "http://bit.ly/rohit_rg",
+    "website": "https://bit.ly/rohit_resume_rg",
+    "resumedownload": "https://bit.ly/rohit_resume_rg",
     "social": [
       {
         "name": "facebook",
@@ -144,7 +144,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Rohit is excellent with his skills in AWS cloud and Rasa Chatbot development, He has helped our clients in various projects in Machine Learning and Cloud domains.",
+        "text": "Rohit is good with his skills in AWS cloud and Rasa Chatbot development, He has helped our clients in various projects in Machine Learning and Cloud domains.",
         "user": "Harshita Puvvala"
       },
       {
